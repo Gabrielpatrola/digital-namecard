@@ -47,9 +47,8 @@ img.profile-pic {
 }
 
 .container {
-	margin: 0 auto;
-	position: relative;
-	height: 100%;
+  margin: auto;
+  text-align: center;
 }
 
 .row {

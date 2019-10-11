@@ -10,7 +10,7 @@
   ],
   "lang": "en-US",
   "start_url": "/digital-namecard/index.html",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "white",
   "theme_color": "white",
   "orientation": "natural"
